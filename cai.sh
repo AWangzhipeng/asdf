@@ -1,4 +1,5 @@
 #!/bin/bash
+#测试上传
 while :
 do
 read -p ""
